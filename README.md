@@ -5,10 +5,7 @@ PERFORMANCE INNOVATIVE TASK FOR OBJECT ORIENTED PROGRAMMING IT214
 TEAM MEMBER:
 
 
-*Earl John S. Parami
-
-*Alianah hashemah Omaguing
-
-*Carry Anino
-
-*Sherie Malinis
+Earl John S. Parami
+Alianah hashemah Omaguing
+Carry Anino
+Sherie Malinis
